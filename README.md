@@ -1,6 +1,6 @@
 <h2>Hello World 👋</h2>
 
-<hr style="height:1px;border:none;color:#333;background-color:#333;">
+<!-- <hr style="height:1px;border:none;color:#333;background-color:#333;"> -->
 
 I'm Gar Jin! A fullstack web developer that likes to think of new ideas and trying to bring them to life in a simple and elegant way.
 
