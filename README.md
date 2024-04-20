@@ -2,13 +2,9 @@ Hello World 👋
 
 I'm Gar Jin! A fullstack web developer that likes to think of new ideas and trying to bring them to life in a simple and elegant way.
 
-- 🛠
 - 🌱 I’m currently learning about ML development
 - 🤔 I’m looking for help with Docker
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🛠 Fun fact: I do some welding and plumbing on the side
   -->
 
 Languages and Tools:
