@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello World 👋
 
-<!--
-**gjinhung/gjinhung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gar Jin! A fullstack web developer that likes to think of new ideas and trying to bring them to life in a simple and elegant way. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🛠 
+- 🌱 I’m currently learning about ML development
+- 🤔 I’m looking for help with Docker
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Languages and Tools:
+
+![image](https://github.com/gjinhung/gjinhung/assets/115123779/f39e43e0-c754-41eb-ae24-844d2de61973)
+
