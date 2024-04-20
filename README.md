@@ -1,12 +1,12 @@
-<h3>Hello World 👋</h3>
+<h2>Hello World 👋</h2>
 
-<hr>
+<hr style="height:1px;border:none;color:#333;background-color:#333;">
 
 I'm Gar Jin! A fullstack web developer that likes to think of new ideas and trying to bring them to life in a simple and elegant way.
 
-- 🌱 I’m currently learning about ML development
-- 🤔 I’m looking for help with Docker
-- 🛠 Fun fact: I do some welding and plumbing on the side
+🌱 I’m currently learning about ML development
+🤔 I’m looking for help with Docker
+🛠 Fun fact: I do some welding and plumbing on the side
 
 Languages and Tools:
 
